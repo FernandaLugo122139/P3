@@ -141,13 +141,21 @@ GRUB_SAVEDDEFAULT=true
 
 ![Imagen1](PIC23.PNG)
 
+Posteriormente se utiliza el siguiente comando:
+
 ```bash
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
 ![Imagen1](PIC26.PNG)
 
+Finalmente al momento de reiniciar y presionar shift, aparece el menú como podemos observar en la siguiente figura, se selecciona el kernel y el sistema operativo se carga con el. 
+
+![Imagen1](PIC22.PNG)
+
 ##  ¿Cómo verificar el cambio de kernel a partir de consola?
 
-
+Para realizar la verificación de cambio de kernel se utiliza el siguiente comando, el cual nos indica la versión de kernel que se encuentra cargado actualmente:
+![Imagen1](PIC24.PNG)
+Se puede observar en la figura que efectivamente, se realizó el cambio de manera existosa. 
 
 
