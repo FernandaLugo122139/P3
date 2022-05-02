@@ -35,7 +35,7 @@ En donde lo que está encerrado entre corchetes es opcional.
 * major#(w): número principal o mayor, es en donde más cambios y actualizaciones existen
 * minor#(x): número menor, por debajo del número mayor de manera jerárquica, se realizn cambios significativos dentro de la misma versión principal 
 * patchlevel(y): se le conoce como ABI, se aplica en versiones estables del kernel, se utiliza cuando se necesitan arreglar problemas de seguridad y de bugs
-* -EXTRAVERSION(z): es utilizado por las distribuciones de kernels para poder rastrear los cambios internos 
+* -EXTRAVERSION(z): es utilizado por los distribuidores de kernels para poder rastrear los cambios internos 
 
 Para está práctica se utilizó la versión 5.17.5, en donde el número mayor es 5, el número menor 17 y el patchlevel 5.
 
