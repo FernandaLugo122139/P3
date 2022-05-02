@@ -61,7 +61,7 @@ sudo apt-get install git fakeroot build-essential ncurses-dev xz-utils libssl-de
 ![Imagen1](PIC5.PNG)
 ![Imagen1](PIC6.PNG)
 
-Además se requiere de la instalación de los siguientes modúlos adicionales:
+Además, se requiere de la instalación de los siguientes modúlos adicionales:
 * dwarves
 * zstd
 
