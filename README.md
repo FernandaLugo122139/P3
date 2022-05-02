@@ -1,7 +1,7 @@
 # Práctica 3: Compilación del kernel de Linux
 
 ##  ¿Cómo hacer un respaldo de una máquina virtual? y ¿cómo levantar ese respaldo?
-![Imagen1](Image1.PNG)
+![Imagen1](Imagen1.png)
 
 ##  Explicar la nomenclatura del kernel
 
