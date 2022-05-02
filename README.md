@@ -9,7 +9,7 @@ Nos aparece la siguiente ventana, en donde se debe seleccionar un nombre para la
 
 ![Imagen1](PIC2.png)
 
-Seleccionamos la opción de clonación completa e inciamos la clonación de la máquina virtual. 
+Seleccionamos la opción de clonación completa e iniciamos la clonación de la máquina virtual. 
 
 ![Imagen1](image2.png)
 
