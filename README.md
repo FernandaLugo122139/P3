@@ -66,9 +66,13 @@ Para descargar una versión de kernel se utiliza el comando wget junto con el li
 ```bash
 wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.17.5.tar.xz
 ```
+![Imagen1](PIC9.PNG)
 
 ##  ¿Cómo extraer el código comprimido del kernel desde terminal?
-
+Una vez que se descarga la versión del kernel, es necesario extraer el código ya que se encuentra compromido, para esto se debe hacer uso del siguiente comando:
+```bash
+tar xvf linux-5.9.6.tar.xz
+```
 ##  ¿Cómo configurar el kernel?
 
 ##  ¿Cómo compilar el código del kernel?
