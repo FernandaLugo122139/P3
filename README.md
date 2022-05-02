@@ -44,7 +44,7 @@ sudo apt-get install git fakeroot build-essential ncurses-dev xz-utils libssl-de
 ![Imagen1](PIC5.PNG)
 ![Imagen1](PIC6.PNG)
 
-Además se quiere de la instalación de los siguientes modúlos adicionales:
+Además se requiere de la instalación de los siguientes modúlos adicionales:
 * dwarves
 * zstd
 Para poder realizar la instalación desde terminal se utilizan los siguientes comandos:
@@ -60,6 +60,12 @@ sudo apt-get install zstd
 Es importante mencionar que para la instalación y pasos posteriores se debe contar con todos los permisos. 
 
 ##  ¿Cómo descargar una versión de kernel desde terminal?
+
+Para descargar una versión del kernel se utiliza el comando wget junto con el link de la versión que se requiere, en este caso se seleccionó la versión  5.17.5. Para esto, se visita el sitio oficial de Linux con las diversas versiones de kernel : https://www.kernel.org/
+
+```bash
+wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.17.5.tar.xz
+```
 
 ##  ¿Cómo extraer el código comprimido del kernel desde terminal?
 
