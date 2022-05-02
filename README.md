@@ -61,7 +61,7 @@ sudo apt-get install git fakeroot build-essential ncurses-dev xz-utils libssl-de
 ![Imagen1](PIC5.PNG)
 ![Imagen1](PIC6.PNG)
 
-Además, se requiere de la instalación de los siguientes modúlos adicionales:
+Además, se requiere de la instalación de los siguientes módulos adicionales:
 * dwarves
 * zstd
 
@@ -87,7 +87,7 @@ wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.17.5.tar.xz
 ![Imagen1](PIC9.PNG)
 
 ##  ¿Cómo extraer el código comprimido del kernel desde terminal?
-Una vez que se descarga la versión del kernel, es necesario extraer el código ya que se encuentra compromido, para esto se debe hacer uso del siguiente comando, en donde se coloca el archivo que fue previamente descargado. 
+Una vez que se descarga la versión del kernel, es necesario extraer el código ya que se encuentra comprimido, para esto se debe hacer uso del siguiente comando, en donde se coloca el archivo que fue previamente descargado. 
 ```bash
 tar xvf linux-5.17.5.tar.xz
 ```
@@ -107,7 +107,7 @@ Para poder cambiar la configuración, es necesario utilizar el siguiente comando
 
 ![Imagen1](PIC13.PNG)
 
-En la siguiente figura se muestra el menu correspondiente, en donde se tienen diversas opciones, al final es importante guardar los cambios correspondientes y salir. 
+En la siguiente figura se muestra el menú correspondiente, en donde se tienen diversas opciones, al final es importante guardar los cambios correspondientes y salir. 
 
 ![Imagen1](PIC14.PNG)
 
@@ -138,7 +138,7 @@ sudo make modules_install
 
 ##  ¿Cómo instalar el kernel?
 
-Finalemente se realiza la instalación del kernel a través del siguiente comando:
+Finalmente se realiza la instalación del kernel a través del siguiente comando:
 
 ```bash
 sudo make install
@@ -175,7 +175,7 @@ Para realizar la verificación de cambio de kernel se utiliza el siguiente coman
 
 ![Imagen1](PIC24.PNG)
 
-Se puede observar en la figura que efectivamente, se realizó el cambio de manera existosa. 
+Se puede observar en la figura que efectivamente, se realizó el cambio de manera exitosa.
 
 ## Referencias
 https://phoenixnap.com/kb/build-linux-kernel
