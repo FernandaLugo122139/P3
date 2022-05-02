@@ -37,7 +37,7 @@ En donde lo que está encerrado entre corchetes es opcional.
 * patchlevel(y): se le conoce como ABI, se aplica en versiones estables del kernel, se utiliza cuando se necesitan arreglar problemas de seguridad y de bugs
 * -EXTRAVERSION(z): es utilizado por las distribuciones de kernels para poder rastrear los cambios internos 
 
-Para está práctica se utilizó la versión 5.17.5
+Para está práctica se utilizó la versión 5.17.5, en donde el número mayor es 5, el número menor 17 y el patchlevel 5.
 
 ##  Investigar y enlistar los paquetes requeridos para la compilación y ¿cómo instalarlos desde terminal?
 
