@@ -95,7 +95,7 @@ tar xvf linux-5.17.5.tar.xz
 ![Imagen1](PIC11.PNG)
 
 ##  ¿Cómo configurar el kernel?
-Primero, es necesario movernos a la carpeta del kernel, después se realiza una copia del archivo de configuración del kernel actual a el archivo de configuración del kernel que queremos instalar.
+Primero, es necesario movernos a la carpeta del kernel, después se realiza una copia del archivo de configuración del kernel actual al archivo .config, el cual es un archivo oculto. 
 ```bash
 cd linux-5.17.5
 cp -v /boot/config-$(uname -r) .config
