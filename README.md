@@ -103,6 +103,10 @@ scripts/config --disable SYSTEM_REVOCATION_KEYS
 ```
 ![Imagen1](PIC15.PNG)
 
+Una vez realizado lo anterior se comienza con la compilación con el siguiente comando:
+```bash
+make
+```
 ##  ¿Cómo instalar módulos?
 
 ##  ¿Cómo indicarle a la computadora con cuál kernel debe iniciar?
