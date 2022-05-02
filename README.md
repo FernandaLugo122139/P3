@@ -41,6 +41,9 @@ Para poder realizar la instalación desde terminal se utiliza el siguiente coman
 ```bash
 sudo apt-get install git fakeroot build-essential ncurses-dev xz-utils libssl-dev bc flex libelf-dev bison
 ```
+![Imagen1](PIC5.PNG)
+![Imagen1](PIC6.PNG)
+
 Además se quiere de la instalación de los siguientes modúlos adicionales:
 * dwarves
 * zstd
