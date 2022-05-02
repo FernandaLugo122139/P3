@@ -99,11 +99,13 @@ Primero, es necesario movernos a la carpeta del kernel, después se realiza una 
 ```bash
 cd linux-5.17.5
 cp -v /boot/config-$(uname -r) .config
-make menuconfig
 ```
 ![Imagen1](PIC12.PNG)
 
 Para poder cambiar la configuración, es necesario utilizar el siguiente comando, el cual despliega una interfaz gráfica para hacer las modificaciones correspondientes. Una vez que se termine, se guarda y se sale del menú, regresando así, a la línea de comandos. 
+```bash
+make menuconfig
+```
 
 ![Imagen1](PIC13.PNG)
 
