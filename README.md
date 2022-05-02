@@ -129,6 +129,7 @@ make
 ![Imagen1](PIC16.PNG)
 ![Imagen1](PIC17.PNG)
 
+Es importante mencionar que para que el proceso termine de manera exitosa, se debe contar con un espacio considerable en la máquina virtual, aproximadamente 50 GB, de lo contrario la compilación se dentendrá cuando el espacio se termine. Por último es importante considerar que dependiendo de la capacidad de la computadora el proceso puede tomar un tiempo considerable en completar. 
 
 ##  ¿Cómo instalar módulos?
 El comando para instalar los módulos es el siguiente:
