@@ -133,13 +133,18 @@ Al momento de iniciar la computadora es necesario presionar la tecla shift para 
 ```bash
 sudo nano /etc/default/grub
 ```
-![Imagen1](PIC21.PNG)
+![Imagen1](PIC25.PNG)
 
+GRUB_DISABLE_SUBMENU=y
+GRUB_DEFAULT=saved
+GRUB_SAVEDDEFAULT=true
+
+![Imagen1](PIC23.PNG)
 
 ```bash
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
-![Imagen1](PIC22.PNG)
+![Imagen1](PIC26.PNG)
 
 ##  ¿Cómo verificar el cambio de kernel a partir de consola?
 
