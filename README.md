@@ -16,7 +16,7 @@ Seleccionamos la opción de clonación completa e iniciamos la clonación de la 
 Una vez finalizado el proceso se puede observar en la parte izquierda, la copia de la máquina virtual.
 ![Imagen1](PIC3.PNG)
 
-En la parte superior izquierda se puede observar como la máquina que esta corriendo es la clonada.
+En la parte superior izquierda se puede observar como la máquina que está corriendo es la clonada.
 
 ![Imagen1](PIC4.PNG)
 
