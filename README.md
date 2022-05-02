@@ -129,6 +129,17 @@ sudo make install
 ![Imagen1](PIC20.PNG)
 
 ##  ¿Cómo indicarle a la computadora con cuál kernel debe iniciar?
+Al momento de iniciar la computadora es necesario presionar la tecla shift para poder ver el menú grub, el cual contiene las opciones de kernel que están disponibles, para poder visualizar ese menú se realizaron los siguientes pasos, se utilizó el siguiente comando para poder entrar al archivo de configuración de grub para poder insertar las siguientes tres líneas al inicio:
+```bash
+sudo nano /etc/default/grub
+```
+![Imagen1](PIC21.PNG)
+
+
+```bash
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+```
+![Imagen1](PIC22.PNG)
 
 ##  ¿Cómo verificar el cambio de kernel a partir de consola?
 
