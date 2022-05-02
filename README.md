@@ -54,6 +54,8 @@ sudo apt install dwarves
 ```bash
 sudo apt-get install zstd
 ```
+![Imagen1](PIC7.PNG)
+![Imagen1](PIC8.PNG)
 
 Es importante mencionar que para la instalación y pasos posteriores se debe contar con todos los permisos. 
 
