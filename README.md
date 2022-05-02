@@ -141,7 +141,7 @@ sudo nano /etc/default/grub
 
 ![Imagen1](PIC23.PNG)
 
-Posteriormente se utiliza el siguiente comando:
+Posteriormente para poder actualizar los cambios realizados previamente se utiliza el siguiente comando:
 
 ```bash
 sudo grub-mkconfig -o /boot/grub/grub.cfg
