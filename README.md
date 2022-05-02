@@ -186,6 +186,10 @@ https://itsfoss.com/switch-kernels-arch-linux/
 
 https://askubuntu.com/questions/1329538/compiling-the-kernel-5-11-11
 
+https://ourcodeworld.co/articulos/leer/1434/como-aumentar-el-tamano-del-disco-de-un-disco-asignado-dinamicamente-en-virtualbox
+
+
+
 
 
 
