@@ -24,6 +24,36 @@ En la parte superior izquierda se puede observar como la máquina que esta corri
 
 ##  Investigar y enlistar los paquetes requeridos para la compilación y ¿cómo instalarlos desde terminal?
 
+Antes de poder realizar la compilación del kernel es necesario instalar los siguientes paquetes:
+
+* git
+* fakeroot
+* build-essential
+* ncurses-dev
+* xz-utils
+* libssl-dev
+* bc
+* flex
+* libelf-dev
+* bison
+
+Para poder realizar la instalación desde terminal se utiliza el siguiente comando:
+```bash
+sudo apt-get install git fakeroot build-essential ncurses-dev xz-utils libssl-dev bc flex libelf-dev bison
+```
+Además se quiere de la instalación de los siguientes modúlos adicionales:
+* dwarves
+* zstd
+Para poder realizar la instalación desde terminal se utilizan los siguientes comandos:
+```bash
+sudo apt install dwarves
+```
+```bash
+sudo apt-get install zstd
+```
+
+Es importante mencionar que para la instalación y pasos posteriores se debe contar con todos los permisos. 
+
 ##  ¿Cómo descargar una versión de kernel desde terminal?
 
 ##  ¿Cómo extraer el código comprimido del kernel desde terminal?
