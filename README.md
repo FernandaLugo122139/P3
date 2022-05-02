@@ -47,6 +47,7 @@ sudo apt-get install git fakeroot build-essential ncurses-dev xz-utils libssl-de
 Además se requiere de la instalación de los siguientes modúlos adicionales:
 * dwarves
 * zstd
+
 Para poder realizar la instalación desde terminal se utilizan los siguientes comandos:
 ```bash
 sudo apt install dwarves
