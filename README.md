@@ -70,14 +70,18 @@ wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.17.5.tar.xz
 ![Imagen1](PIC9.PNG)
 
 ##  ¿Cómo extraer el código comprimido del kernel desde terminal?
-Una vez que se descarga la versión del kernel, es necesario extraer el código ya que se encuentra compromido, para esto se debe hacer uso del siguiente comando:
+Una vez que se descarga la versión del kernel, es necesario extraer el código ya que se encuentra compromido, para esto se debe hacer uso del siguiente comando, en donde se coloca el archivo que fue previamente descargado. 
 ```bash
-tar xvf linux-5.9.6.tar.xz
+tar xvf linux-5.17.5.tar.xz
 ```
 ![Imagen1](PIC10.PNG)
 ![Imagen1](PIC11.PNG)
 
 ##  ¿Cómo configurar el kernel?
+Primero, es necesario movernos a la carpeta del kernel, después se realiza una copia del archivo de configuración del kernel actual a el archivo de configuración del kernel que queremos instalar. 
+
+Para poder cambiar la configuración, se necesario utilizar el siguiente comando, el cual depsliega una interfaz gráfica para hacer las modificaciones correspondientes. Una vez que se termine, se guarda y se sale del menú, regresando así, a la línea de comandos. 
+
 
 ##  ¿Cómo compilar el código del kernel?
 
