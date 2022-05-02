@@ -25,3 +25,5 @@ Cuando se realizan procedimientos que involucran al kenerl, es importante realiz
 
 
 ![Imagen1](image.png)
+
+![Imagen1](image2.png)
