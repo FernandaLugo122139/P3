@@ -148,7 +148,7 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
 ![Imagen1](PIC26.PNG)
 
-Finalmente al momento de reiniciar y presionar shift, aparece el menú como podemos observar en la siguiente figura, se selecciona el kernel y el sistema operativo se carga con el. 
+Finalmente al momento de reiniciar y presionar shift, aparece el menú como podemos observar en la siguiente figura, se selecciona el kernel con el cual se va a iniciar la máquina virtual. 
 
 ![Imagen1](PIC22.PNG)
 
