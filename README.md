@@ -5,6 +5,8 @@ Cuando se realizan procedimientos que involucran al kernel, es importante realiz
 
 ![Imagen1](PIC1.PNG)
 
+![Imagen1](PIC2.png)
+
 
 ##  Explicar la nomenclatura del kernel
 
