@@ -33,7 +33,7 @@ w.x[.y][-z]
 En donde lo que está encerrado entre corchetes es opcional. 
 
 * major#(w): número principal o mayor, es en donde más cambios y actualizaciones existen
-* minor#(x): número menor, por debajo del número mayor de manera jerárquica 
+* minor#(x): número menor, por debajo del número mayor de manera jerárquica, se realizn cambios significativos dentro de la misma versión principal 
 * patchlevel(y): se le conoce como ABI, se aplica en versiones estables del kernel, se utiliza cuando se necesitan arreglar problemas de seguridad y de bugs
 * -EXTRAVERSION(z): es utilizado por las distribuciones de kernels para poder rastrear los cambios internos 
 
@@ -103,7 +103,7 @@ make menuconfig
 ```
 ![Imagen1](PIC12.PNG)
 
-Para poder cambiar la configuración, se necesario utilizar el siguiente comando, el cual depsliega una interfaz gráfica para hacer las modificaciones correspondientes. Una vez que se termine, se guarda y se sale del menú, regresando así, a la línea de comandos. 
+Para poder cambiar la configuración, es necesario utilizar el siguiente comando, el cual despliega una interfaz gráfica para hacer las modificaciones correspondientes. Una vez que se termine, se guarda y se sale del menú, regresando así, a la línea de comandos. 
 
 ![Imagen1](PIC13.PNG)
 
