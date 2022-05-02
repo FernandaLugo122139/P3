@@ -135,9 +135,9 @@ sudo nano /etc/default/grub
 ```
 ![Imagen1](PIC25.PNG)
 
-GRUB_DISABLE_SUBMENU=y
-GRUB_DEFAULT=saved
-GRUB_SAVEDDEFAULT=true
+* GRUB_DISABLE_SUBMENU=y
+* GRUB_DEFAULT=saved
+* GRUB_SAVEDDEFAULT=true
 
 ![Imagen1](PIC23.PNG)
 
