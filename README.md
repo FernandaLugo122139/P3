@@ -1,9 +1,10 @@
 # Práctica 3: Compilación del kernel de Linux
 
 ##  ¿Cómo hacer un respaldo de una máquina virtual? y ¿cómo levantar ese respaldo?
-Cuando se realizan procedimientos que involucran al kenerl, es importante realizar una copia de seguridad para prevenir que se pierdan los datos, está práctica fue realizada en el clon de la máquina virtual original. 
+Cuando se realizan procedimientos que involucran al kernel, es importante realizar una copia de seguridad para prevenir que se pierdan los datos, está práctica fue realizada en el clon de la máquina virtual original. Para hacer el respaldo se selecciona la máquina y se selecciona la opción de clonar, como se puede observar en la siguiente figura:
 
 ![Imagen1](PIC1.PNG)
+
 
 ##  Explicar la nomenclatura del kernel
 
