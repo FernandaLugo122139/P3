@@ -155,7 +155,9 @@ Finalmente al momento de reiniciar y presionar shift, aparece el menú como pode
 ##  ¿Cómo verificar el cambio de kernel a partir de consola?
 
 Para realizar la verificación de cambio de kernel se utiliza el siguiente comando, el cual nos indica la versión de kernel que se encuentra cargado actualmente:
+
 ![Imagen1](PIC24.PNG)
+
 Se puede observar en la figura que efectivamente, se realizó el cambio de manera existosa. 
 
 
