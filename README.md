@@ -22,6 +22,23 @@ En la parte superior izquierda se puede observar como la máquina que esta corri
 
 ##  Explicar la nomenclatura del kernel
 
+La nomenclatura actual del kernel es la siguiente:
+
+major#.minor#[.patchlevel][-EXTRAVERSION]
+
+también se puede representar de la siguiente forma:
+
+w.x[.y][-z]
+
+En donde lo que está encerrado entre corchetes es opcional. 
+
+* major#(w): número principal o mayor, es en donde más cambios y actualizaciones existen
+* minor#(x): número menor, por debajo del número mayor de manera jerárquica 
+* patchlevel(y): se le conoce como ABI, se aplica en versiones estables del kernel, se utiliza cuando se necesitan arreglar problemas de seguridad y de bugs
+* -EXTRAVERSION(z): es utilizado por las distribuciones de kernels para poder rastrear los cambios internos 
+
+Para está práctica se utilizó la versión 5.17.5
+
 ##  Investigar y enlistar los paquetes requeridos para la compilación y ¿cómo instalarlos desde terminal?
 
 Antes de poder realizar la compilación del kernel es necesario instalar los siguientes paquetes:
