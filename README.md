@@ -3,7 +3,7 @@
 ##  ¿Cómo hacer un respaldo de una máquina virtual? y ¿cómo levantar ese respaldo?
 Cuando se realizan procedimientos que involucran al kenerl, es importante realizar una copia de seguridad para prevenir que se pierdan los datos, está práctica fue realizada en el clon de la máquina virtual original. 
 
-![Imagen1](Imagen1.png)
+![Imagen1](PIC1.png)
 
 ##  Explicar la nomenclatura del kernel
 
