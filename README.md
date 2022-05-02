@@ -22,3 +22,6 @@ Cuando se realizan procedimientos que involucran al kenerl, es importante realiz
 ##  ¿Cómo indicarle a la computadora con cuál kernel debe iniciar?
 
 ##  ¿Cómo verificar el cambio de kernel a partir de consola?
+
+
+![Imagen1](image.png)
