@@ -188,13 +188,13 @@ uname -r
 Se puede observar en la figura que efectivamente, se realizó el cambio de manera exitosa.
 
 ## Referencias
-https://phoenixnap.com/kb/build-linux-kernel
+-https://phoenixnap.com/kb/build-linux-kernel
 
-https://itsfoss.com/switch-kernels-arch-linux/
+-https://itsfoss.com/switch-kernels-arch-linux/
 
-https://askubuntu.com/questions/1329538/compiling-the-kernel-5-11-11
+-https://askubuntu.com/questions/1329538/compiling-the-kernel-5-11-11
 
-https://ourcodeworld.co/articulos/leer/1434/como-aumentar-el-tamano-del-disco-de-un-disco-asignado-dinamicamente-en-virtualbox
+-https://ourcodeworld.co/articulos/leer/1434/como-aumentar-el-tamano-del-disco-de-un-disco-asignado-dinamicamente-en-virtualbox
 
 
 
