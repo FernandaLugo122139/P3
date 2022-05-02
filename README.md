@@ -114,7 +114,7 @@ En la siguiente figura se muestra el menú correspondiente, en donde se tienen d
 ![Imagen1](PIC14.PNG)
 
 ##  ¿Cómo compilar el código del kernel?
-Antes de poder realizar la compilación del kernel, es necesario realizar unos pasos previos. En el archivo de configuración del kernel, es necesario modificar las siguientes líneas, a través de los siguientes comandos:
+Antes de poder realizar la compilación del kernel, es necesario realizar unos pasos previos. En el archivo de configuración del kernel, es necesario modificar un par de líneas, a través de los siguientes comandos:
 
 ```bash
 scripts/config --set-str SYSTEM_TRUSTED_KEYS
