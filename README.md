@@ -84,6 +84,5 @@ tar xvf linux-5.9.6.tar.xz
 ##  ¿Cómo verificar el cambio de kernel a partir de consola?
 
 
-![Imagen1](image.png)
 
 
