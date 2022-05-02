@@ -74,6 +74,9 @@ Una vez que se descarga la versión del kernel, es necesario extraer el código 
 ```bash
 tar xvf linux-5.9.6.tar.xz
 ```
+![Imagen1](PIC10.PNG)
+![Imagen1](PIC11.PNG)
+
 ##  ¿Cómo configurar el kernel?
 
 ##  ¿Cómo compilar el código del kernel?
