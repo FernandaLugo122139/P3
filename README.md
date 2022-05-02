@@ -179,7 +179,11 @@ Se puede observar en la figura que efectivamente, se realizó el cambio de maner
 
 ## Referencias
 https://phoenixnap.com/kb/build-linux-kernel
+
 https://itsfoss.com/switch-kernels-arch-linux/
+
 https://askubuntu.com/questions/1329538/compiling-the-kernel-5-11-11
+
+
 
 
