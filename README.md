@@ -107,7 +107,7 @@ Para poder cambiar la configuración, se necesario utilizar el siguiente comando
 
 ![Imagen1](PIC13.PNG)
 
-En la siguiemte figura se muestra el menu correspondiente, en donde se tienen diversas opciones, al final es importante guardar los cambios correspondientes y salir. 
+En la siguiente figura se muestra el menu correspondiente, en donde se tienen diversas opciones, al final es importante guardar los cambios correspondientes y salir. 
 
 ![Imagen1](PIC14.PNG)
 
