@@ -79,7 +79,7 @@ Es importante mencionar que para la instalación y pasos posteriores se debe con
 
 ##  ¿Cómo descargar una versión de kernel desde terminal?
 
-Para descargar una versión de kernel se utiliza el comando wget junto con el link de la versión que se requiere, en este caso se seleccionó la versión  5.17.5. Para esto, se visita el sitio oficial de Linux con las diversas versiones de kernel : https://www.kernel.org/
+Para descargar una versión de kernel se utiliza el comando wget junto con el link de la versión que se requiere, en este caso se seleccionó la versión  5.17.5. Para esto, se visita el sitio oficial de Linux con las diversas versiones de kernel : https://www.kernel.org/.
 
 ```bash
 wget https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.17.5.tar.xz
