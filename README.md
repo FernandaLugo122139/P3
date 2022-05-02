@@ -107,7 +107,24 @@ Una vez realizado lo anterior se comienza con la compilación con el siguiente c
 ```bash
 make
 ```
+![Imagen1](PIC16.PNG)
+![Imagen1](PIC17.PNG)
+
+
 ##  ¿Cómo instalar módulos?
+El comando para instalar los módulos es el siguiente:
+```bash
+sudo make modules_install
+```
+![Imagen1](PIC18.PNG)
+##  ¿Cómo instalar el kernel?
+
+Finalemente se realiza la instalación del kernel a través del siguiente comando:
+
+```bash
+sudo make install
+```
+![Imagen1](PIC19.PNG)
 
 ##  ¿Cómo indicarle a la computadora con cuál kernel debe iniciar?
 
