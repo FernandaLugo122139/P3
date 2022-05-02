@@ -90,10 +90,18 @@ Para poder cambiar la configuración, se necesario utilizar el siguiente comando
 
 ![Imagen1](PIC13.PNG)
 
+En la siguiemte figura se muestra el menu correspondiente, en donde se tienen diversas opciones, al final es importante guardar los cambios correspondientes y salir. 
+
 ![Imagen1](PIC14.PNG)
 
-
 ##  ¿Cómo compilar el código del kernel?
+Antes de poder realizar la compilación del kernel, es necesario realizar unos pasos previos. En el archivo de configuración del kernel, es necesario modificar las siguientes líneas, a través de los siguientes comandos:
+
+```bash
+scripts/config --set-str SYSTEM_TRUSTED_KEYS
+scripts/config --disable SYSTEM_REVOCATION_KEYS
+```
+![Imagen1](PIC15.PNG)
 
 ##  ¿Cómo instalar módulos?
 
