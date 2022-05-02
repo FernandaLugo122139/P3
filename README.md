@@ -5,8 +5,13 @@ Cuando se realizan procedimientos que involucran al kernel, es importante realiz
 
 ![Imagen1](PIC1.PNG)
 
+Nos aparece la siguiente ventana, en donde se debe seleccionar un nombre para la máquina virtual, la ruta para guardarla y se marcan las opciones adicionales. 
+
 ![Imagen1](PIC2.png)
 
+Seleccionamos la opción de clonación completa e inciamos la clonación de la máquina virtual. 
+
+![Imagen1](image2.png)
 
 ##  Explicar la nomenclatura del kernel
 
@@ -29,4 +34,4 @@ Cuando se realizan procedimientos que involucran al kernel, es importante realiz
 
 ![Imagen1](image.png)
 
-![Imagen1](image2.png)
+
